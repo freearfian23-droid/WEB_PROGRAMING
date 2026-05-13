@@ -1,0 +1,33 @@
+ody {
+    margin: 0;
+}
+
+#div1{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    position: relative;
+    top: 100px;
+    left: 120px;
+}
+
+#div2{
+    height: 250px;
+    width: 250px;
+    background-color: crimson;
+    position: relative;
+}
+
+#div3{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    position: absolute;
+    top: -100px;
+    left: 100px;
+}
+
+#fix {
+    position: fixed;
+    background-color: aqua;
+}
